@@ -144,6 +144,7 @@ node_modules/@framer/benjamin.icon-generator/build/index.js
 node_modules/@framer/benjamin.icon-generator/README.md
 design/images/zljUMxbRrXFjBLPQqu4h7be1tHY.png
 design/images/yycGDBW6UQpzU7q9hhoMbL99RF4.png
+design/images/xNVq1Ua5YFEZDxHIQPEHWXYqfms.png
 design/images/wyH0QwjXMAEAiHEspoGChSGFtAw.png
 design/images/wlOk7Q8J0x6U1dN1P2xQcZepONc.png
 design/images/uX7Zids2uzA4Ovh9MeqWvgvjM.png
