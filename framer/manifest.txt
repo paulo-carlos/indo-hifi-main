@@ -144,6 +144,7 @@ node_modules/@framer/benjamin.icon-generator/build/index.js
 node_modules/@framer/benjamin.icon-generator/README.md
 design/images/zljUMxbRrXFjBLPQqu4h7be1tHY.png
 design/images/zXttUceFPkT5uDEw7xuhh3XGk.png
+design/images/z7j5hpxhwxw13Ud5KI2HUXl6p1M.png
 design/images/yycGDBW6UQpzU7q9hhoMbL99RF4.png
 design/images/xNVq1Ua5YFEZDxHIQPEHWXYqfms.png
 design/images/wyH0QwjXMAEAiHEspoGChSGFtAw.png
@@ -187,6 +188,7 @@ design/images/EcLwRJ8VwOGMmetj5BLLWBLA.png
 design/images/E2NVgCLON5E9oDiZJwpvC1PL3M.png
 design/images/DWw4GN380Ac5z4KreTxBDOcUU.png
 design/images/6nmusPYQ1bVQSFcJypdmFBCwBY.png
+design/images/6D80PLSjCGfgbjPUfzYfqE1RWM.png
 design/images/53fDWAFlmZk4cSxdxnM0IpcF2qY.png
 design/images/3Y8lT6kxlLWuUir0Uk9lQMMyWU.png
 design/images/0qcXcPC0NbkEyGSPjNHgYi56n8.jpg
