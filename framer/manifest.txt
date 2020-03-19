@@ -256,6 +256,7 @@ design/images/FyEnbDaDuBAyCz1xyzXaPruQyOI.png
 design/images/FEJA758yeay2leMrUFEU1KeAEHQ.png
 design/images/EcLwRJ8VwOGMmetj5BLLWBLA.png
 design/images/E2NVgCLON5E9oDiZJwpvC1PL3M.png
+design/images/DeoWmuWfAbLkrgrBtltFwyODcQ.png
 design/images/DWw4GN380Ac5z4KreTxBDOcUU.png
 design/images/6nmusPYQ1bVQSFcJypdmFBCwBY.png
 design/images/6D80PLSjCGfgbjPUfzYfqE1RWM.png
