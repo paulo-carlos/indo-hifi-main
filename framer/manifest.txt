@@ -164,6 +164,7 @@ design/images/hfzOa9NsvJxibZ2Gl83nfZcjOfo.png
 design/images/hS3tLYCd1gEBzMEYe7LPZccnbNo.png
 design/images/eZUeXsSAhFXiMe3ir6W0gJRNRg.jpg
 design/images/dA8PIkzlNMsySz50lGMg9L9iqQU.png
+design/images/bq2pT9tu4pwFIXmHVQk1BtzLk.png
 design/images/b0azYJ2cg50ObHwAeaJFikUFeE.png
 design/images/adnEOUBr6v2aYCQuBnWGqE9row.png
 design/images/aYxMdQT9cODoQ0q9W39yh05NHGw.png
