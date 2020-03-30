@@ -259,6 +259,7 @@ design/images/8qQF3rWKYMKIKLDC04X6kD4iEt8.png
 design/images/8MJv1iZUco6pa0smYdb3hACJlQ.png
 design/images/6nmusPYQ1bVQSFcJypdmFBCwBY.png
 design/images/6PzLdmW4Yu0RfQIrYEvmK0OcRQ.png
+design/images/5eGxr7sbGfCl0guv4SoV9ukVFw.png
 design/images/53fDWAFlmZk4cSxdxnM0IpcF2qY.png
 design/images/4gJIixiUIC3M8hs9CzlZF0cAqo.png
 design/images/0EHhGqlNjoBXWm5ybLq4kGd4kk.png
